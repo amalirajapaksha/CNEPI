@@ -45,6 +45,17 @@ CNEPI/
 ```
 
 
+## 👥 Group Members
+
+- Y.M.A.P.Rajapaksha (Group leader)
+- N.G.S.Minimuthu
+- G.R.Jayasinghe
+- M.N.D.Gunarathna
+- I.V.N.N.Wijesekara
+- S.G.V.S.Samaranayaka
+- S.S.Balasooriya
+
+
 ## 📌 Notes
 
 - Ensure you have R and required packages installed to run the scripts.  
