@@ -35,10 +35,10 @@ CNEPI/
 ├── R/
 │ └── Data Analysis.R <- Main R script for data analysis and visualizations
 ├── Report/
-│ ├── Latex/ <- LaTeX source files for compiling the project report
+│ ├── LaTeX/ <- LaTeX source files for compiling the project report
 │ └── Report (Group 01).pdf <- Compiled PDF report
 ├── Slides/
-│ ├── Latex/ <- LaTeX source files for compiling the presentation slides
+│ ├── LaTeX/ <- LaTeX source files for compiling the presentation slides
 │ └── Presentation.pdf <- Compiled presentation slides
 └── README.md <- Project description and instruction
 
