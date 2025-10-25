@@ -1,0 +1,49 @@
+\contentsline {chapter}{Acknowledgements}{i}{chapter*.3}%
+\contentsline {chapter}{Contents}{iv}{chapter*.4}%
+\contentsline {chapter}{List of Figures}{v}{chapter*.5}%
+\contentsline {chapter}{List of Tables}{vi}{chapter*.6}%
+\contentsline {chapter}{Abstract}{vii}{chapter*.7}%
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Motivation}{4}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Objectives of the Study}{5}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Specific Objectives of the Study}{5}{subsection.1.2.1}%
+\contentsline {chapter}{\numberline {2}Literature Review }{6}{chapter.2}%
+\contentsline {section}{\numberline {2.1}The Role of Imports, Exports, and Net Exports in Economic Growth}{7}{section.2.1}%
+\contentsline {section}{\numberline {2.2}The Importance and Construction of Export and Import Price Indices}{8}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Global Evidence of Studies on Exports, Imports, and Net Exports }{9}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Time Series Models for Forecasting Imports and Exports}{10}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Forecasting Exports through Price Indices and Survey-Based Indicators}{12}{section.2.5}%
+\contentsline {section}{\numberline {2.6}ARIMA Model for Forecasting Net Export Price Index}{13}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Time Series Models for Sri Lankan Export Forecasting}{14}{section.2.7}%
+\contentsline {section}{\numberline {2.8}Gaps in the Literature and Contributions of This Research}{15}{section.2.8}%
+\contentsline {chapter}{\numberline {3}Data}{17}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Methodology}{20}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Methodology of The Principal Variable}{20}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Research Design}{22}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Data Analysis Method}{22}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Statistical Method}{22}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Stationarity Check for the Time Series Data}{24}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}Model Identification}{25}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}Model Estimation}{26}{subsection.4.4.3}%
+\contentsline {subsection}{\numberline {4.4.4}Model Evaluation Methods }{26}{subsection.4.4.4}%
+\contentsline {subsection}{\numberline {4.4.5}Diagnostic Checking}{26}{subsection.4.4.5}%
+\contentsline {subsection}{\numberline {4.4.6}Forecasting Values in the Test Set}{27}{subsection.4.4.6}%
+\contentsline {subsection}{\numberline {4.4.7}Forecasting Evaluation Methods}{27}{subsection.4.4.7}%
+\contentsline {subsection}{\numberline {4.4.8}Forecasting Future Values}{27}{subsection.4.4.8}%
+\contentsline {chapter}{\numberline {5}Analysis of Data}{28}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Preliminary (Exploratory) Analysis}{28}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Test for Stationarity}{30}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Choosing and Fitting Models}{32}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Model Evaluation}{33}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Residual Diagnostics}{34}{section.5.5}%
+\contentsline {section}{\numberline {5.6}Forecasting Future Values}{36}{section.5.6}%
+\contentsline {chapter}{\numberline {6}Discussion }{38}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Limitations and Future Research}{40}{section.6.1}%
+\contentsline {chapter}{\numberline {7}Conclusion}{41}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Main Findings}{41}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Contribution to the Literature}{41}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Implications}{42}{section.7.3}%
+\contentsline {chapter}{Appendix}{43}{chapter*.31}%
+\contentsline {section}{A. Appendix to Chapter 03}{43}{section*.32}%
+\contentsline {section}{B. Appendix to Chapter 05}{43}{section*.33}%
+\contentsline {chapter}{References}{44}{chapter*.34}%

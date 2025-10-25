@@ -1,0 +1,19 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces A Section of the Data Set}}{19}{figure.caption.8}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces General process for forecasting using an ARIMA model, Adapted from (Hyndman \& Athanasopoulos, 2021)}}{23}{figure.caption.13}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Time Series Plot of Commodity Net Export Price Index from 1980 M1 to 2025 M3 (Original Data Set)}}{28}{figure.caption.14}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Time Series Plot of Commodity Net Export Price Index from 1980 M1 to 2016 M2 (For Training Set)}}{29}{figure.caption.15}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Seasonal Plot of Commodity Net Export Price Index}}{29}{figure.caption.16}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces ACF Plot of the Commodity Net Export Price Index}}{30}{figure.caption.17}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Time Series Plot of Differenced Commodity Net Export Price Index from 1980 M1 to 2016 M2}}{31}{figure.caption.19}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces ACF Plot of Differenced Commodity Net Export Price Index}}{32}{figure.caption.21}%
+\contentsline {figure}{\numberline {5.7}{\ignorespaces PACF Plot of Differenced Commodity Net Export Price Index}}{32}{figure.caption.22}%
+\contentsline {figure}{\numberline {5.8}{\ignorespaces ACF Plot and PACF Plot of Residuals}}{35}{figure.caption.27}%
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Time Series Plot of Residuals}}{35}{figure.caption.28}%
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Fitting and Prediction of the Commodity Net Export Price Index}}{37}{figure.caption.30}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
