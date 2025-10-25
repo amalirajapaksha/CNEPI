@@ -30,16 +30,16 @@ This project was conducted as part of the **Research Methodology course unit**. 
 ```text
 CNEPI/
 ├── Data/
-│ ├── Raw/ <- Original untidy dataset
-│ └── Tidy/ <- Cleaned dataset ready for analysis
+│ ├── Raw.csv <- Original untidy dataset
+│ └── Tidy.xlsx <- Cleaned dataset ready for analysis
 ├── R/
 │ └── Data Analysis.R <- Main R script for data analysis and visualizations
 ├── Report/
 │ ├── Latex/ <- LaTeX source files for compiling the project report
-│ └── Report (Group 1).pdf <- Compiled PDF report
+│ └── Report (Group 01).pdf <- Compiled PDF report
 ├── Slides/
 │ ├── Latex/ <- LaTeX source files for compiling the presentation slides
-│ └── presentation.pdf <- Compiled presentation slides
+│ └── Presentation.pdf <- Compiled presentation slides
 └── README.md <- Project description and instruction
 
 ```
