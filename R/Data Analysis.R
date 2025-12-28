@@ -5,7 +5,7 @@ library(ggplot2)
 library(tseries)
 library(lmtest)
 
-# 2. Import your dataset -----
+# 2. Import the dataset -----
 data <- read_excel("tidy data set.xlsx")
 View(data)
 
