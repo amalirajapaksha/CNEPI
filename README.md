@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project focuses on **forecasting the Commodity Net Export Price Index (CNEPI) for Sri Lanka** using **ARIMA time series models**. The CNEPI is constructed by weighting individual commodity prices by their net export share relative to GDP.
 
@@ -14,7 +14,7 @@ This project was conducted as part of the **Research Methodology course unit**. 
 
 ---
 
-## 🗂️ Project Components
+## Project Components
 
 - **Data preparation:** Cleaning and organizing raw commodity price and trade data into a tidy dataset suitable for analysis.  
 - **Exploratory analysis:** Understanding trends, seasonality, and patterns in the data.  
@@ -25,7 +25,7 @@ This project was conducted as part of the **Research Methodology course unit**. 
 
 ---
 
-## 🗂️ Folder Structure
+## Folder Structure
 
 ```text
 CNEPI/
@@ -45,7 +45,7 @@ CNEPI/
 ```
 
 
-## 👥 Group Members
+## Group Members
 
 - Y.M.A.P.Rajapaksha (Group leader)
 - N.G.S.Minimuthu
